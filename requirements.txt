@@ -12,7 +12,7 @@ Flask
 Flask-Bcrypt==1.0.1
 Flask-Login==0.6.2
 Flask-SQLAlchemy
-Flask-WTF==1.2.1
+Flask-WTF
 greenlet==3.0.0
 gunicorn==21.2.0
 idna==3.4
